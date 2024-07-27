@@ -129,7 +129,7 @@ CREATE TABLE FavoriteMovies (
 --('Inception', 'A mind-bending thriller...', 160000000, '2021-07-16', 148, 2, 2, 3),
 --('Jurassic Park', 'Dinosaurs brought back to life...', 63000000, '1993-06-11', 127, 1, 1, NULL),
 --('Interstellar', 'A journey through space...', 165000000, '2020-11-07', 169, 2, 1, 4),
---('Titanic', 'A romance on the ill-fated ship...', 200000000, '1997-12-19', 195, NULL, 1, 4);
+--('Titanic', 'A romance on the ill-fated ship...', 200000000, '1997-12-19', 195, NULL, 1, 4),
 --('Movie with criteria', 'New drama...', 200000000, '2023-06-16', 145, 1, 1, 3);
 
 --INSERT INTO Genre (Name)
